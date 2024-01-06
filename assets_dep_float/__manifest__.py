@@ -5,7 +5,7 @@
     "description": """
         Increase Decimal Places in Assets Degressive Depreciation method
     """,
-    'author': "Tech Things",
+    'author': "TechThings",
     'website': "http://www.techthings.it",
     'category': 'Accounting',
     'version': '0.1',
